@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Engagement",
+    "icon": "FaGem",
+    "date": "2025-02-19T17:00:00",
+    "description": "The moment we celebrate the beginning of our beautiful journey together."
+  },
+  {
+    "name": "Haldi",
+    "icon": "FaSun",
+    "date": "2025-02-20T10:00:00",
+    "description": "A beautiful and vibrant ceremony full of love and laughter."
+  },
+  {
+    "name": "Mehendi",
+    "icon": "FaPaintBrush",
+    "date": "2025-02-21T14:00:00",
+    "description": "An exciting and colorful event with intricate henna designs."
+  },
+  {
+    "name": "Sangeet",
+    "icon": "FaMusic",
+    "date": "2025-02-22T19:00:00",
+    "description": "A lively evening filled with music, dance, and joy."
+  },
+  {
+    "name": "Wedding Ceremony",
+    "icon": "FaRing",
+    "date": "2025-02-23T11:00:00",
+    "description": "The most sacred and heartfelt moment of the wedding."
+  },
+  {
+    "name": "Reception",
+    "icon": "FaGlassCheers",
+    "date": "2025-02-24T18:00:00",
+    "description": "A grand celebration to mark the start of the new journey."
+  }
+]
